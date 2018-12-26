@@ -28,7 +28,7 @@ Please feel free to point out errors or suggestions by creating pull requrests. 
 
 ## Authors
 
-* **Waqas Younas** - [PythonTrainingHQ](https://github.com/wyounas)
+* **Waqas Younas** - [PythonTrainingHQ](https://www.pythontraininghq.com)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
